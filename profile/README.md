@@ -74,6 +74,7 @@ and answering your questions.
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
+- Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
