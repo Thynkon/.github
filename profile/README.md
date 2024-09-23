@@ -61,6 +61,7 @@ and answering your questions.
 - Colin Moschard [@colinmoschard](https://github.com/colinmoschard)
 - Victor Nicolet [@Vicolet](https://github.com/Vicolet)
 - Axel Pittet [@Axwells](https://github.com/Axwells)
+- Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
 - Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
