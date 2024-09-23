@@ -81,3 +81,4 @@ and answering your questions.
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
+- Ali Zoubir [@Ali-Z0](https://github.com/Ali-Z0)
