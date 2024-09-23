@@ -49,6 +49,7 @@ Add your name in the list in alphabetical order (by last name) in this format:
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
+
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
@@ -74,7 +75,6 @@ Add your name in the list in alphabetical order (by last name) in this format:
 
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
-
 -->
 
 - Urs Behrmann [@ursbehrmann](https://github.com/UBehrmann)
@@ -89,6 +89,7 @@ and answering your questions.
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Mathieu Rabot [@Nomeos](https§://github.com/Nomeos)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
+- Camille Theubet [@CamilleThHEIG](https://github.com/CamilleThHEIG)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
 - Killian Viquerat [@Killian-Viquerat](https://github.com/Killian-Viquerat)
 - Ali Zoubir [@Ali-Z0](https://github.com/Ali-Z0)
