@@ -50,6 +50,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
