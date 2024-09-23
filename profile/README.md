@@ -54,6 +54,7 @@ and answering your questions.
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Aude Laydu [@eau2](https://github.com/eau2)
+- Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
 ### DAI-TIC-C
