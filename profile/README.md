@@ -1,5 +1,4 @@
 # HEIG-VD DAI Course
-
 Welcome to the
 [Développement d'applications internet (DAI) course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573)
 at [HEIG-VD](https://heig-vd.ch), Switzerland!
@@ -54,6 +53,7 @@ and answering your questions.
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Aude Laydu [@eau2](https://github.com/eau2)
+- Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
 - Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
