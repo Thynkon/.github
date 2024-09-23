@@ -52,6 +52,7 @@ and answering your questions.
 -->
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Aude Laydu [@eau2](https://github.com/eau2)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
 ### DAI-TIC-C
