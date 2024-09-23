@@ -52,6 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
 ### DAI-TIC-C
 
