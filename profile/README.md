@@ -52,6 +52,7 @@ and answering your questions.
 -->
 
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Mário André ROCHA FERREIRA[@Thynkon](https://github.com/Thynkon)
 
 ### DAI-TIC-C
 
