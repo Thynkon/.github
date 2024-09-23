@@ -60,6 +60,7 @@ and answering your questions.
 - Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
 - Colin Moschard [@colinmoschard](https://github.com/colinmoschard)
 - Victor Nicolet [@Vicolet](https://github.com/Vicolet)
+- Axel Pittet [@Axwells](https://github.com/Axwells)
 - Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
