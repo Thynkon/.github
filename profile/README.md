@@ -54,6 +54,7 @@ and answering your questions.
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Nicolas Carbonara [@Syseria](https://github.com/Syseria)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
+- Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Aude Laydu [@eau2](https://github.com/eau2)
 - Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
