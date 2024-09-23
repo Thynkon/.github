@@ -86,6 +86,7 @@ and answering your questions.
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
 - Aladin Iseni [@aladin-heig](https://github.com/aladin-heig)
+- Arthur Jacobs [@Arthur2479](https://github.com/Arthur2479)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
