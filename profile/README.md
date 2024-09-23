@@ -54,6 +54,7 @@ and answering your questions.
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Aude Laydu [@eau2](https://github.com/eau2)
 - Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
+- Victor Nicolet [@Vicolet](https://github.com/Vicolet)
 - Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
